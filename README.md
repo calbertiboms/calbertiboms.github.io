@@ -1,5 +1,3 @@
-# calbertiboms.github.io
-
 # Industrial Mechanical Engineer
 
 ## Education 
