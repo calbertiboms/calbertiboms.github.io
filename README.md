@@ -3,8 +3,8 @@
 # Industrial Mechanical Engineer
 
 ## Education 
-Bachelor in Industrial Mechanical Engineering - Mechanical design specialization
-Master of Engineering Management & Leadership - Data science specialization.
+- Bachelor in Industrial Mechanical Engineering - Mechanical design specialization.
+- Master of Engineering Management & Leadership - Data science specialization.
 
 ## Work experience
 Graduate Teaching Assistant for Statistics and Data Science @ Rice University
