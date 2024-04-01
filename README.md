@@ -1,3 +1,6 @@
+![Profile Image](https://raw.githubusercontent.com/calbertiboms/calbertiboms.github.io/f7d2c4ccd51d679a0ccd777fb631b134b13fb002/images/profile_picture.jpeg)
+
+
 # Industrial Mechanical Engineer
 
 ## Education 
