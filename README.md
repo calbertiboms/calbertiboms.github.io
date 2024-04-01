@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="/images/profile_picture.jpg" width="100" height="100">
+</p>
+
 # Industrial Mechanical Engineer
 
 ## Education 
