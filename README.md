@@ -1,12 +1,12 @@
 # Industrial Mechanical Engineer
 
 
-## 🎓 Education 
+## Education 🎓
 -  Bachelor in Industrial Mechanical Engineering - Mechanical design specialization.
 -  Master of Engineering Management & Leadership - Data science specialization.
 
 
-## 💼 Work experience
+## Work experience 💼
 
 | Role | Company | Responsibilities |
 |------|---------|------------------|
@@ -16,7 +16,7 @@
 | 📊 Invoicing and Logistic Support Trainee | Tenaris | Analyzed stock receipt, dispatches, work orders, and stock transfers in SAP. Generated and controlled invoices and commercial documents. |
 
 
-## 🚀 Projects
+## Projects 🚀 
 
 **⚽ Soccer Outcome Predictions: Graph Theory and Historical Statistics @ Rice University**
 - Developed a Python-based Supervised Machine Learning model using graph theory and historical data achieving 69% accuracy in predicting ‘La Liga’ matches.
@@ -25,7 +25,7 @@
 - Led the development of BinBuddy, a B2B platform enhancing trade of recyclable materials.
 
 
-## 📞 Connect with Me
+## Connect with me 📞
 - [LinkedIn Profile](https://www.linkedin.com/in/calbertiboms/)
 - [GitHub](https://github.com/calbertiboms)
 
