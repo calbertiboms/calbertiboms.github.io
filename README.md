@@ -5,7 +5,8 @@
 -  Master of Engineering Management & Leadership - Data science specialization.
 
 ## 💼 Work experience
-** Graduate Teaching Assistant for Statistics and Data Science @ Rice University**
+
+**Graduate Teaching Assistant for Statistics and Data Science @ Rice University**
 - Guided students in developing Data Science projects incorporating Machine Learning models.
 - Evaluated and provided feedback on Data Science students' Jupyter notebooks.
 
