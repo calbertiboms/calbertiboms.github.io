@@ -1,5 +1,7 @@
 # Industrial Mechanical Engineer
 
+Hello! I'm Cecilia Alberti, an Industrial Mechanical Engineer with a passion for engineering and data science. I am specializing in bridging the gap between traditional engineering and modern data-driven decision making.
+
 
 ## Education 🎓
 -  Bachelor in Industrial Mechanical Engineering - Mechanical design specialization.
