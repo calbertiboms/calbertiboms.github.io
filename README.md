@@ -1,6 +1,5 @@
 ![Profile Image](https://raw.githubusercontent.com/calbertiboms/calbertiboms.github.io/f7d2c4ccd51d679a0ccd777fb631b134b13fb002/images/profile_picture.jpeg)
 
-
 # Industrial Mechanical Engineer
 
 ## Education 
@@ -27,6 +26,11 @@
 ## Projects
 **Soccer Outcome Predictions: Graph Theory and Historical Statistics @ Rice University**
 - Developed a Python-based Supervised Machine Learning model using graph theory and historical data achieving 69% accuracy in predicting ‘La Liga’ matches.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/calbertiboms/)
+- [GitHub](https://github.com/calbertiboms)
 
 **BinBuddy B2B Platform for Waste Management @ Rice University**
 - Led the development of BinBuddy, a B2B platform enhancing trade of recyclable materials.
