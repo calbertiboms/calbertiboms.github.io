@@ -27,10 +27,10 @@
 **Soccer Outcome Predictions: Graph Theory and Historical Statistics @ Rice University**
 - Developed a Python-based Supervised Machine Learning model using graph theory and historical data achieving 69% accuracy in predicting ‘La Liga’ matches.
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/calbertiboms/)
-- [GitHub](https://github.com/calbertiboms)
-
 **BinBuddy B2B Platform for Waste Management @ Rice University**
 - Led the development of BinBuddy, a B2B platform enhancing trade of recyclable materials.
+
+## Connect with Me
+- ![LinkedIn](https://example.com/linkedin-icon.png) [LinkedIn Profile](https://www.linkedin.com/in/calbertiboms/)
+- [GitHub](https://github.com/calbertiboms)
+
