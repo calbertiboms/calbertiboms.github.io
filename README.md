@@ -31,9 +31,9 @@ Autocad (advanced), Plant 3D (advanced), and Python (intermediate).
 
 ## Connect with me 📞
 - [LinkedIn Profile](https://www.linkedin.com/in/calbertiboms/)
-- [GitHub](https://github.com/calbertiboms)
+- [GitHub Profile](https://github.com/calbertiboms)
 - Email: [calbertiboms@gmail.com](mailto:calbertiboms@gmail.com)
 
   
-[You can download my resume!](https://github.com/calbertiboms/calbertiboms.github.io/raw/main/resume/Cecilia%20Alberti_Resume.pdf)
+[You can download my resume here!](https://github.com/calbertiboms/calbertiboms.github.io/raw/main/resume/Cecilia%20Alberti_Resume.pdf)
 
