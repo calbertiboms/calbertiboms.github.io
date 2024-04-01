@@ -3,4 +3,7 @@ description: Industrial Mechanical Engineer specializing in Data Science
 profile_image: "/images/profile_picture.jpg"
 theme: jekyll-theme-minimal
 
+social_links:
+  linkedin: https://www.linkedin.com/in/your-profile
+  github: https://github.com/calbertiboms
 
