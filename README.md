@@ -29,6 +29,6 @@
 - [LinkedIn Profile](https://www.linkedin.com/in/calbertiboms/)
 - [GitHub](https://github.com/calbertiboms)
 
-
-[Descarga mi CV aquí](https://github.com/calbertiboms/calbertiboms.github.io/raw/main/resume/Cecilia%20Alberti_Resume.pdf)
+## Resume
+[Download my resume](https://github.com/calbertiboms/calbertiboms.github.io/raw/main/resume/Cecilia%20Alberti_Resume.pdf)
 
