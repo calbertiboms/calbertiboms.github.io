@@ -21,6 +21,8 @@
 **♻ BinBuddy B2B Platform for Waste Management @ Rice University**
 - Led the development of BinBuddy, a B2B platform enhancing trade of recyclable materials.
 
+[Descarga mi CV aquí](/resume/Cecilia Alberti_Resume.pdf)
+
 ## 📞 Connect with Me
 - [LinkedIn Profile](https://www.linkedin.com/in/calbertiboms/)
 - [GitHub](https://github.com/calbertiboms)
