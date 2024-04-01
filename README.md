@@ -1,4 +1,4 @@
-# 🛠 Industrial Mechanical Engineer
+# Industrial Mechanical Engineer
 
 
 ## 🎓 Education 
