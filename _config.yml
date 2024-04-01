@@ -1,9 +1,7 @@
-title: Cecilia Alberti
-logo: "/images/profile_picture.jpg"
-description: Industrial Mechanical Engineer specializing in Data Science
-theme: jekyll-theme-minimal
-
-
+#title: Cecilia Alberti
+#logo: "/images/profile_picture.jpg"
+#description: Industrial Mechanical Engineer specializing in Data Science
+#theme: jekyll-theme-minimal
 title: Cecilia Alberti - Industrial Mechanical Engineer
 description: >- # I am an experienced Industrial Mechanical Engineer pursuing a Master in Engineering Management, and specializing in data science. 
 Explore my projects and work experience to learn more about my journey.
@@ -17,15 +15,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 
-# Example of navigation links
 navigation:
-  - title: "About Me"
-    url: "/about"
-  - title: "Projects"
-    url: "/projects"
   - title: "Resume"
-    url: "/resume"
-  - title: "Contact"
-    url: "/contact"
+    url: "resume/Cecilia Alberti_Resume.pdf"
 
-google_analytics: UA-XXXXX-Y
