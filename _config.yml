@@ -2,3 +2,30 @@ title: Cecilia Alberti
 logo: "/images/profile_picture.jpg"
 description: Industrial Mechanical Engineer specializing in Data Science
 theme: jekyll-theme-minimal
+
+
+title: Cecilia Alberti - Industrial Mechanical Engineer
+description: >- # I am an experienced Industrial Mechanical Engineer pursuing a Master in Engineering Management, and specializing in data science. 
+Explore my projects and work experience to learn more about my journey.
+
+url: "https://github.com/calbertiboms"
+baseurl: "" # the subpath of your site, e.g. /blog
+github_username:  calbertiboms
+
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Example of navigation links
+navigation:
+  - title: "About Me"
+    url: "/about"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Resume"
+    url: "/resume"
+  - title: "Contact"
+    url: "/contact"
+
+google_analytics: UA-XXXXX-Y
