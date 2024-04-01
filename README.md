@@ -6,14 +6,12 @@
 
 ## 💼 Work experience
 
-## 💼 Work experience
-
 | Role | Company | Responsibilities |
 |------|---------|------------------|
-| Graduate Teaching Assistant for Statistics and Data Science | Rice University | Guided students in Data Science projects incorporating ML models. Evaluated and provided feedback on Jupyter notebooks. |
-| Project Manager | Asuan (Frontmatec) | Managed a $10M portfolio of industrial manufacturing projects. Enhanced project scheduling and management processes. |
-| Engineering Consultant | Proyectos Ingeniería | Directed the quality management department according to ISO 9001 standards. Assessed in more than 10 engineering projects. |
-| Invoicing and Logistic Support Trainee | Tenaris | Analyzed stock receipt, dispatches, work orders, and stock transfers in SAP. Generated and controlled invoices and commercial documents. |
+| 🎓 Graduate Teaching Assistant for Statistics and Data Science | Rice University | Guided students in Data Science projects incorporating ML models. Evaluated and provided feedback on Jupyter notebooks. |
+| 📈 Project Manager | Asuan (Frontmatec) | Managed a $10M portfolio of industrial manufacturing projects. Enhanced project scheduling and management processes. |
+| 🔍 Engineering Consultant | Proyectos Ingeniería | Directed the quality management department according to ISO 9001 standards. Assessed in more than 10 engineering projects. |
+| 📊 Invoicing and Logistic Support Trainee | Tenaris | Analyzed stock receipt, dispatches, work orders, and stock transfers in SAP. Generated and controlled invoices and commercial documents. |
 
 ## 🚀 Projects
 
