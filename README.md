@@ -6,21 +6,14 @@
 
 ## 💼 Work experience
 
-**Graduate Teaching Assistant for Statistics and Data Science @ Rice University**
-- Guided students in developing Data Science projects incorporating Machine Learning models.
-- Evaluated and provided feedback on Data Science students' Jupyter notebooks.
+## 💼 Work experience
 
-**Project Manager @ Asuan (Frontmatec)**
-- Managed a $10 million portfolio of industrial manufacturing projects, enhancing project scheduling and management processes to meet stringent deadlines.
-- Facilitated cross-functional communication channels between organizational teams and clients, fostering a team-oriented, interdisciplinary culture that enhanced project delivery and customer satisfaction.
-
-**Engineering Consultant @ Proyectos Ingeniería**
-- Directed the quality management department, according to ISO 9001 standards.
-- Assessed in more than 10 engineering projects by applying mechanical engineering principles, project management and construction management practices.
-
-**Invoicing and Logistic Support Trainee @ Tenaris**
-- Conducted the analysis of stock receipt, dispatches, work orders and stock transfers in SAP, ensuring accuracy in the inventory management.
-- Generated and controlled invoices and commercial documents, contributing to the functioning of the supply chain and billing processes.
+| Role | Company | Responsibilities |
+|------|---------|------------------|
+| Graduate Teaching Assistant for Statistics and Data Science | Rice University | Guided students in Data Science projects incorporating ML models. Evaluated and provided feedback on Jupyter notebooks. |
+| Project Manager | Asuan (Frontmatec) | Managed a $10M portfolio of industrial manufacturing projects. Enhanced project scheduling and management processes. |
+| Engineering Consultant | Proyectos Ingeniería | Directed the quality management department according to ISO 9001 standards. Assessed in more than 10 engineering projects. |
+| Invoicing and Logistic Support Trainee | Tenaris | Analyzed stock receipt, dispatches, work orders, and stock transfers in SAP. Generated and controlled invoices and commercial documents. |
 
 ## 🚀 Projects
 
