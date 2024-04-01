@@ -19,12 +19,14 @@ Hello! I'm Cecilia Alberti, an Industrial Mechanical Engineer with a passion for
 
 
 ## Projects 🚀 
+- **⚽ Soccer Outcome Predictions**: Developed a Python-based Supervised Machine Learning model using graph theory and historical data, achieving 69% accuracy in predicting ‘La Liga’ matches. [View Project](https://github.com/calbertiboms/SoccerGraphStats)
+- **♻ BinBuddy B2B Platform**: Led the development of a B2B platform enhancing trade of recyclable materials. 
 
-**⚽ Soccer Outcome Predictions: Graph Theory and Historical Statistics @ Rice University**
-- Developed a Python-based Supervised Machine Learning model using graph theory and historical data achieving 69% accuracy in predicting ‘La Liga’ matches.
 
-**♻ BinBuddy B2B Platform for Waste Management @ Rice University**
-- Led the development of BinBuddy, a B2B platform enhancing trade of recyclable materials.
+## Skills 🔧
+- **Computer skills**: Microsoft Office (advanced), Microsoft Excel (advanced), Microsoft Project (intermediate),
+Autocad (advanced), Plant 3D (advanced), and Python (intermediate).
+- **Language skills**: Spanish (native), English (proficiency), Portuguese (basic).
 
 
 ## Connect with me 📞
