@@ -29,6 +29,6 @@
 - Led the development of BinBuddy, a B2B platform enhancing trade of recyclable materials.
 
 ## Connect with Me
-- ![LinkedIn](https://example.com/linkedin-icon.png) [LinkedIn Profile](https://www.linkedin.com/in/calbertiboms/)
+- ![LinkedIn](https://raw.githubusercontent.com/calbertiboms/calbertiboms.github.io/main/images/linkedin_icon.webp) [LinkedIn Profile](https://www.linkedin.com/in/calbertiboms/)
 - [GitHub](https://github.com/calbertiboms)
 
