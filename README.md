@@ -1,7 +1,5 @@
-# Industrial Mechanical Engineer
-
-Hello! I'm Cecilia Alberti, an Industrial Mechanical Engineer with a passion for engineering and data science. I am specializing in bridging the gap between traditional engineering and modern data-driven decision making.
-
+<h1 align="center">Hi 👋, I'm Cecilia Alberti</h1>
+<h3 align="center">an Industrial Mechanical Engineer with a passion for engineering and data science. I am specializing in bridging the gap between traditional engineering and modern data-driven decision making.</h3>
 
 ## Education 🎓
 -  Bachelor in Industrial Mechanical Engineering - Mechanical design specialization.
@@ -24,16 +22,12 @@ Hello! I'm Cecilia Alberti, an Industrial Mechanical Engineer with a passion for
 
 
 ## Skills 🔧
-- **Computer skills**: Microsoft Office (advanced), Microsoft Excel (advanced), Microsoft Project (intermediate),
-Autocad (advanced), Plant 3D (advanced), and Python (intermediate).
-- **Language skills**: Spanish (native), English (proficiency), Portuguese (basic).
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 ## Connect with me 📞
 - [LinkedIn Profile](https://www.linkedin.com/in/calbertiboms/)
 - [GitHub Profile](https://github.com/calbertiboms)
 - Email: [calbertiboms@gmail.com](mailto:calbertiboms@gmail.com)
 
-  
-[You can download my resume here!](https://github.com/calbertiboms/calbertiboms.github.io/raw/main/resume/Cecilia%20Alberti_Resume.pdf)
-
+## Know about my experiences 📄[https://github.com/calbertiboms/calbertiboms.github.io/blob/6531b74baba8a09cdc5818d76a3b2af04a6362b9/resume/Cecilia%20Alberti_Resume.pdf](https://github.com/calbertiboms/calbertiboms.github.io/blob/6531b74baba8a09cdc5818d76a3b2af04a6362b9/resume/Cecilia%20Alberti_Resume.pdf)
