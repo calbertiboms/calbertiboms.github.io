@@ -1,4 +1,5 @@
 title: Cecilia Alberti
-logo: https://github.com/calbertiboms/calbertiboms.github.io/blob/8cf16031a7e81e768e372b40e17c57197bc55ffd/images/profile_picture.jpeg 
+logo: images/profile_picture.jpeg
 description: Industrial Mechanical Engineer specializing in Data Science
+show_downloads: true
 theme: jekyll-theme-minimal
