@@ -20,7 +20,7 @@
 - **⚽ Soccer Outcome Predictions**: Developed a Python-based Supervised Machine Learning model using graph theory and historical data, achieving 69% accuracy in predicting ‘La Liga’ matches. [View Project](https://github.com/calbertiboms/SoccerGraphStats)
   
 <div style="text-align:center;">
-  <img src='https://github.com/calbertiboms/calbertiboms.github.io/blob/2255bb3ba3452f96cc076d809c7637da0dfb1dbd/images/Gif%20-%20FCBarcelona.gif' width="400" height="300">
+  <img src='[https://github.com/calbertiboms/calbertiboms.github.io/blob/2255bb3ba3452f96cc076d809c7637da0dfb1dbd/images/Gif%20-%20FCBarcelona.gif](https://github.com/calbertiboms/calbertiboms.github.io/blob/main/images/Gif%20-%20FCBarcelona.gif?raw=true)' width="400" height="300">
 </div>
 
 - **📊Data vizualizations**: Recreated different data visualizations from the New York Times. [View Project](https://github.com/calbertiboms/NYTvisualizations)
