@@ -26,7 +26,7 @@ width="400" height="300">
 - **📊Data vizualizations**: Recreated different data visualizations from the New York Times. [View Project](https://github.com/calbertiboms/NYTvisualizations)
 <img
 src='https://raw.githubusercontent.com/calbertiboms/calbertiboms.github.io/main/images/Worlds%20average%20temperatures.png'
-width="600" height="300">
+width="800" height="300">
 
 
 
