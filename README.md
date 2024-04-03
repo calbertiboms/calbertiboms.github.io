@@ -23,7 +23,7 @@
 src='https://github.com/calbertiboms/calbertiboms.github.io/blob/b8268d0dc8fad890db7cfde9527090d328e08342/images/BCN%20gif.gif'
 width="400" height="300">
 
-- **📊Data vizualizations**: Recreated different data visualizations from the New York Times. [View Project](https://github.com/calbertiboms/SoccerGraphStats)
+- **📊Data vizualizations**: Recreated different data visualizations from the New York Times. [View Project](https://github.com/calbertiboms/NYTvisualizations)
 
 - **♻ BinBuddy B2B Platform**: Led the development of a B2B platform enhancing trade of recyclable materials. 
 
