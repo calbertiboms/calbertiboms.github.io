@@ -24,6 +24,11 @@ src='https://github.com/calbertiboms/calbertiboms.github.io/blob/b8268d0dc8fad89
 width="400" height="300">
 
 - **📊Data vizualizations**: Recreated different data visualizations from the New York Times. [View Project](https://github.com/calbertiboms/NYTvisualizations)
+<img
+src='https://raw.githubusercontent.com/calbertiboms/calbertiboms.github.io/main/images/Worlds%20average%20temperatures.png'
+width="400" height="300">
+
+
 
 - **♻ BinBuddy B2B Platform**: Led the development of a B2B platform enhancing trade of recyclable materials. 
 
