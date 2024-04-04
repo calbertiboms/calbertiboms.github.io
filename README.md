@@ -38,7 +38,7 @@ Recreated different data visualizations from the New York Times. [View Project](
 Led the development of a B2B platform enhancing trade of recyclable materials. [View Project](https://github.com/calbertiboms/NYTvisualizations](https://github.com/calbertiboms/BinBuddy)
   
 <div style="text-align:center;">
-  <img src='https://raw.githubusercontent.com/calbertiboms/BinBuddy/main/images/BinBuddy.jpg' width="400" height="200">
+  <img src='https://raw.githubusercontent.com/calbertiboms/BinBuddy/main/images/BinBuddy.jpg' width="400" height="250">
 </div>
 
 ## Skills 
