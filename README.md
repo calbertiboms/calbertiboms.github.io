@@ -16,7 +16,9 @@
 | 📊 Invoicing and Logistic Support Trainee | Tenaris | 
 
 ## Projects 
+
 **⚽ Soccer Outcome Predictions**
+
 Developed a Python-based Supervised Machine Learning model using graph theory and historical data, achieving 69% accuracy in predicting ‘La Liga’ matches. [View Project](https://github.com/calbertiboms/SoccerGraphStats)
   
 <div style="text-align:center;">
@@ -24,6 +26,7 @@ Developed a Python-based Supervised Machine Learning model using graph theory an
 </div>
 
 **📊Data vizualizations**
+
 Recreated different data visualizations from the New York Times. [View Project](https://github.com/calbertiboms/NYTvisualizations)
   
 <div style="text-align:center;">
@@ -31,6 +34,7 @@ Recreated different data visualizations from the New York Times. [View Project](
 </div>
 
 **♻ BinBuddy B2B Platform**
+
 Led the development of a B2B platform enhancing trade of recyclable materials. [View Project]([https://github.com/calbertiboms/NYTvisualizations](https://github.com/calbertiboms/BinBuddy))
   
 <div style="text-align:center;">
