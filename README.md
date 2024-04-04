@@ -20,6 +20,10 @@
 **⚽ Soccer Outcome Predictions**
 
 Developed a Python-based Supervised Machine Learning model using graph theory and historical data, achieving 69% accuracy in predicting ‘La Liga’ matches. [View Project](https://github.com/calbertiboms/SoccerGraphStats)
+
+Authors: 
+- Cecilia Alberti
+- Valentina Varetto
   
 <div style="text-align:center;">
   <img src='https://raw.githubusercontent.com/calbertiboms/calbertiboms.github.io/main/images/Players%20mean%20positions%20and%20passes.png' width="500" height="350">
@@ -28,6 +32,9 @@ Developed a Python-based Supervised Machine Learning model using graph theory an
 **📊Data vizualizations**
 
 Recreated different data visualizations from the article "What's going on with this graph" from the New York Times. [View Project](https://github.com/calbertiboms/NYTvisualizations)
+
+Author:
+- Cecilia Alberti
   
 <div style="text-align:center;">
   <img src='https://raw.githubusercontent.com/calbertiboms/calbertiboms.github.io/main/images/Worlds%20average%20temperatures.png' width="1000" height="300">
@@ -35,7 +42,16 @@ Recreated different data visualizations from the article "What's going on with t
 
 **♻ BinBuddy B2B Platform**
 
-Led the development of a B2B platform enhancing trade of recyclable materials. [View Project](https://github.com/calbertiboms/BinBuddy)
+Development of a B2B platform enhancing trade of recyclable materials between sellers and buyers. BinBuddy streamlines processes by connecticting eco-friendly businesses looking for profit from their recyclable waste with those seeking affordable reusable materials. The project was developed at RCEL 503 - Product Management course, at Rice University. 
+
+Authors: 
+- Abdullah Zaher
+- Cecilia Alberti
+- Julieta Mariano
+- Valentina Varetto
+- Swarnim Sandeep
+
+[View Project](https://github.com/calbertiboms/BinBuddy)
   
 <div style="text-align:center;">
   <img src='https://raw.githubusercontent.com/calbertiboms/BinBuddy/main/images/BinBuddy.jpg' width="400" height="250">
