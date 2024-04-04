@@ -57,7 +57,6 @@ Authors:
 - Julieta Mariano
 - Valentina Varetto
 - Swarnim Sandeep
-
   
 ## Skills 
 
