@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Cecilia Alberti</h1>
+<h1 align="left">Hi👋 I'm Cecilia Alberti</h1>
 <h3 align="left">an Industrial Mechanical Engineer with a passion for engineering and data science. I'm specializing in bridging the gap between traditional engineering and modern data-driven decision making.</h3>
 
 ## Education
