@@ -8,13 +8,12 @@
 
 ## Work experience
 
-| Role | Company | Responsibilities |
-|------|---------|------------------|
-| 🎓 Graduate Teaching Assistant for Statistics and Data Science | Rice University | Guided students in Data Science projects incorporating ML models. Evaluated and provided feedback on Jupyter notebooks. |
-| 📈 Project Manager | Asuan (Frontmatec) | Managed a $10M portfolio of industrial manufacturing projects. |
-| 🔍 Engineering Consultant | Proyectos Ingeniería | Assessed in more than 10 engineering projects. |
-| 📊 Invoicing and Logistic Support Trainee | Tenaris | Analyzed stock receipt, dispatches, work orders, and stock transfers in SAP. |
-
+| Role | Company | 
+|------|---------|
+| 🎓 Graduate Teaching Assistant for Statistics and Data Science | Rice University | 
+| 📈 Project Manager | Asuan (Frontmatec) | 
+| 🔍 Engineering Consultant | Proyectos Ingeniería |
+| 📊 Invoicing and Logistic Support Trainee | Tenaris | 
 
 ## Projects 
 - **⚽ Soccer Outcome Predictions**: Developed a Python-based Supervised Machine Learning model using graph theory and historical data, achieving 69% accuracy in predicting ‘La Liga’ matches. [View Project](https://github.com/calbertiboms/SoccerGraphStats)
