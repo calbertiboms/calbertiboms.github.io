@@ -27,7 +27,7 @@ Developed a Python-based Supervised Machine Learning model using graph theory an
 
 **📊Data vizualizations**
 
-Recreated different data visualizations from the New York Times. [View Project](https://github.com/calbertiboms/NYTvisualizations)
+Recreated different data visualizations from the article "What's going on with this graph" from the New York Times. [View Project](https://github.com/calbertiboms/NYTvisualizations)
   
 <div style="text-align:center;">
   <img src='https://raw.githubusercontent.com/calbertiboms/calbertiboms.github.io/main/images/Worlds%20average%20temperatures.png' width="1000" height="300">
