@@ -30,7 +30,7 @@ Authors:
 - Valentina Varetto
 
   
-**📊Data vizualizations**
+**📊 Data vizualizations**
 
 Recreated different data visualizations from the article "What's going on with this graph" from the New York Times. [View Project](https://github.com/calbertiboms/NYTvisualizations)
   
