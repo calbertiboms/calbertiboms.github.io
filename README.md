@@ -29,7 +29,11 @@
   <img src='https://raw.githubusercontent.com/calbertiboms/calbertiboms.github.io/main/images/Worlds%20average%20temperatures.png' width="1000" height="300">
 </div>
 
-- **♻ BinBuddy B2B Platform**: Led the development of a B2B platform enhancing trade of recyclable materials. 
+- **♻ BinBuddy B2B Platform**: Led the development of a B2B platform enhancing trade of recyclable materials. [View Project]([https://github.com/calbertiboms/NYTvisualizations](https://github.com/calbertiboms/BinBuddy))
+  
+<div style="text-align:center;">
+  <img src='https://raw.githubusercontent.com/calbertiboms/BinBuddy/main/images/BinBuddy.jpg' width="400" height="300">
+</div>
 
 ## Skills 
 **Languages and Tools:**
