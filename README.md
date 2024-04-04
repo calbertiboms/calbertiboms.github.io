@@ -32,7 +32,7 @@
 - **♻ BinBuddy B2B Platform**: Led the development of a B2B platform enhancing trade of recyclable materials. [View Project]([https://github.com/calbertiboms/NYTvisualizations](https://github.com/calbertiboms/BinBuddy))
   
 <div style="text-align:center;">
-  <img src='https://raw.githubusercontent.com/calbertiboms/BinBuddy/main/images/BinBuddy.jpg' width="600" height="350">
+  <img src='https://raw.githubusercontent.com/calbertiboms/BinBuddy/main/images/BinBuddy.jpg' width="500" height="300">
 </div>
 
 ## Skills 
