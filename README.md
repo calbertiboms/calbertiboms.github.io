@@ -38,8 +38,7 @@ Recreated different data visualizations from the article "What's going on with t
   <img src='https://raw.githubusercontent.com/calbertiboms/calbertiboms.github.io/main/images/Worlds%20average%20temperatures.png' width="1000" height="300">
 </div>
 
-Author:
-- Cecilia Alberti
+Author: Cecilia Alberti
   
 **♻ BinBuddy B2B Platform**
 
