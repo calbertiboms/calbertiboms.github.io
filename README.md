@@ -16,19 +16,22 @@
 | 📊 Invoicing and Logistic Support Trainee | Tenaris | 
 
 ## Projects 
-- **⚽ Soccer Outcome Predictions**: Developed a Python-based Supervised Machine Learning model using graph theory and historical data, achieving 69% accuracy in predicting ‘La Liga’ matches. [View Project](https://github.com/calbertiboms/SoccerGraphStats)
+**⚽ Soccer Outcome Predictions**
+Developed a Python-based Supervised Machine Learning model using graph theory and historical data, achieving 69% accuracy in predicting ‘La Liga’ matches. [View Project](https://github.com/calbertiboms/SoccerGraphStats)
   
 <div style="text-align:center;">
   <img src='https://raw.githubusercontent.com/calbertiboms/calbertiboms.github.io/main/images/Players%20mean%20positions%20and%20passes.png' width="500" height="350">
 </div>
 
-- **📊Data vizualizations**: Recreated different data visualizations from the New York Times. [View Project](https://github.com/calbertiboms/NYTvisualizations)
+**📊Data vizualizations**
+Recreated different data visualizations from the New York Times. [View Project](https://github.com/calbertiboms/NYTvisualizations)
   
 <div style="text-align:center;">
   <img src='https://raw.githubusercontent.com/calbertiboms/calbertiboms.github.io/main/images/Worlds%20average%20temperatures.png' width="1000" height="300">
 </div>
 
-- **♻ BinBuddy B2B Platform**: Led the development of a B2B platform enhancing trade of recyclable materials. [View Project]([https://github.com/calbertiboms/NYTvisualizations](https://github.com/calbertiboms/BinBuddy))
+**♻ BinBuddy B2B Platform**
+Led the development of a B2B platform enhancing trade of recyclable materials. [View Project]([https://github.com/calbertiboms/NYTvisualizations](https://github.com/calbertiboms/BinBuddy))
   
 <div style="text-align:center;">
   <img src='https://raw.githubusercontent.com/calbertiboms/BinBuddy/main/images/BinBuddy.jpg' width="400" height="200">
